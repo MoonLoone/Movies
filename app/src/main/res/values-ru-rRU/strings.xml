@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фильмы</string>
+    <string name="poster_of_movie">Постер к фильму</string>
+    <string name="most_rate">Наиболее рейтинговые</string>
+    <string name="most_popular">Самые популярные</string>
+    <string name="title">Название:</string>
+    <string name="OriginalTitle">Оригинальное название</string>
+    <string name="rate">Рейтинг</string>
+    <string name="image">Картинки</string>
+    <string name="add_to_favourite">Добавлено в избранное</string>
+    <string name="remove_from_favourite">Удалено из избранного</string>
+    <string name="item_main">Главная</string>
+    <string name="item_favourite">Избранное</string>
+    <string name="launge_trailer">Запустить трейлер</string>
+</resources>
